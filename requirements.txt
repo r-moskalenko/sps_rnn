@@ -1,0 +1,10 @@
+ipdb
+tqdm
+scipy==1.12.0
+imageio
+pygraphviz
+torch
+torchvision
+tensorboardX
+Pillow
+opencv-contrib-python
